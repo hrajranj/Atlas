@@ -1,0 +1,7 @@
+@startuml
+     participant "A" as A
+    participant "B" as B
+
+    A --> B: Message/action
+    A --> B: reply
+@enduml
